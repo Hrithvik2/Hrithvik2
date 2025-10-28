@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hrithvik2
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL,PYTHON,POWERBI,EXCEL
-- 📫 How to reach me Hrithvikwork@gmail.com/+919785577529
+- 📫 How to reach me Hrithvikwork@gmail.com
 - 😄 Pronouns: Rithvik
   
 
